@@ -2,10 +2,6 @@ import os
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Create a folder to save plots if not exists
-# plot_folder = "plots"
-# os.makedirs(plot_folder, exist_ok=True)
-
 # File Input
 file_path = input("Enter the file path (CSV/XLSX): ").strip()
 
