@@ -1,4 +1,4 @@
-```markdown
+
 # 📊 Auto Data Plotter: CSV/XLSX to Stunning Visuals
 
 Turn your CSV/XLSX data into beautiful, automated visualizations in just a few steps! No need for manual plotting—just upload, choose a plot, and get your graph instantly!
