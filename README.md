@@ -20,7 +20,7 @@ Turn your CSV/XLSX data into beautiful, automated visualizations in just a few s
 ### 1. Clone this repository:
 
 ```bash
-git clone https://github.com/musfiqurrabeg/auto-data-plotter.git
+https://github.com/musfiqurrabeg/Simple-Plot-Generator--CSV-XLSX-to-Graphs.git
 ```
 
 ### 2. Install dependencies:
