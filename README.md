@@ -1,5 +1,5 @@
 
-# 📊 Auto Data Plotter: CSV/XLSX to Stunning Visuals
+# 📊 Simple Plot Generator: CSV/XLSX to Visuals
 
 Turn your CSV/XLSX data into beautiful, automated visualizations in just a few steps! No need for manual plotting—just upload, choose a plot, and get your graph instantly!
 
@@ -57,15 +57,6 @@ python plot_generator.py
 4. **Enter X-axis & Y-axis column names**
 5. **Boom!** Your plot is ready & saved automatically!
 
-## 📸 Example Output
-
-### 📊 Line Plot Example
-
-![Line Plot Example](plots/line_plot_example.png)
-
-### 📈 Bar Chart Example
-
-![Bar Chart Example](plots/bar_chart_example.png)
 
 ## 🤝 Contributing
 
